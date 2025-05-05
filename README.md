@@ -1,6 +1,6 @@
 # Habit Tracker App
 
-**HabitKit** is a simple habit tracking app designed to help users build good routines. This project was a a way for me to consolidate on the following topics that I've been learning:
+A simple habit tracking app designed to help users build good routines. This project was a a way for me to consolidate on the following topics that I've been learning:
 - Navigation using SwiftUI's built in `NavigationStack` and `NavigationLink` views
 - `UserDefaults` for data persistance
 - Dynamic lists using `ForEach` and `List`
